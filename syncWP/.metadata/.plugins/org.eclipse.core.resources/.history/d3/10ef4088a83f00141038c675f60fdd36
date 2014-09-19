@@ -1,0 +1,13 @@
+package example01;
+
+public class ModelDuck extends Duck{
+	
+	public ModelDuck{
+	}
+	
+	@Override
+	public void display() {
+		System.out.println("I'm a real model duck!");
+	}
+	
+}

@@ -1,0 +1,13 @@
+package example01;
+
+public class MallarDuck extends Duck{
+	
+	public MallarDuck()
+	{
+		
+	}
+	
+	public void display(){
+		System.out.println("I'm a real Mallard duck!");
+	}
+}

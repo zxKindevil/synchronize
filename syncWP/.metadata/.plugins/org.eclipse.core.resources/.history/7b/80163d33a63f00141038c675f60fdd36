@@ -1,0 +1,7 @@
+package example01;
+
+public class MallarDuck extends Duck{
+	public void display(){
+		
+	}
+}
