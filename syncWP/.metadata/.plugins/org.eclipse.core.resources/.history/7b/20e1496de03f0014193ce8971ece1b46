@@ -1,0 +1,36 @@
+package example01.SubjectImp;
+
+import example01.Observer;
+import example01.Subject;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class WeatherData implements Subject{
+	private List observers;
+	private float temperature;
+	private float humidity;
+	private float pressure;
+	
+	public WeatherData(){
+		observers =new ArrayList();
+	}
+	
+	@Override
+	public void registerObserver(Observer o) {
+		
+	}
+
+	@Override
+	public void removeObserver(Observer o) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

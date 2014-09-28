@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="example01.FlyBehavior"/>
+<fullyQualifiedTypeName name="example01.Duck"/>
+<fullyQualifiedTypeName name="example01.ModelDuck"/>
+<fullyQualifiedTypeName name="example01.FlyRocketPowerd"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="example01.Observer"/>
+<fullyQualifiedTypeName name="example01.Subject"/>
+<fullyQualifiedTypeName name="example01.SubjectImp.WeatherData"/>
+<fullyQualifiedTypeName name="example01.ObservertImp.CurrentConditionsDisplay"/>
+</qualifiedTypeNameHistroy>

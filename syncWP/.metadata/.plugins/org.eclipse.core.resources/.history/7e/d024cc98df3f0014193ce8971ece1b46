@@ -1,0 +1,25 @@
+package example01.SubjectImp;
+
+import example01.Observer;
+import example01.Subject;
+
+public class WeatherData implements Subject{
+
+	@Override
+	public void registerObserver(Observer o) {
+		
+	}
+
+	@Override
+	public void removeObserver(Observer o) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
